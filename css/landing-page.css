@@ -109,14 +109,14 @@ h6 {
 
 .section-heading-spacer {
     float: left;
-    width: 200px;
-    border-top: 3px solid #e7e7e7;
+    width: 100%;
+    border-top: 3px solid #FF0000;
 }
 
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/banner-bg.jpg) no-repeat -130px center;
     background-size: cover;
 }
 
